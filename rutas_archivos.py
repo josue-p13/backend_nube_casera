@@ -9,12 +9,12 @@ extensiones_img = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
 def retorno_path(opcion):
     match opcion:
-        case "vero":
-            return "E:/Mami"
-        case "josue":
-            return "C:/Users/josue/Pictures/Screenshots"
-        case "alejandro":
-            return "C:/Users/josue/Pictures/Feedback"
+        case "user1":
+            return "E:/Ruta/a/almacenamiento/de/user1"
+        case "user2":
+            return "E:/Ruta/a/almacenamiento/de/user2"
+        case "user3":
+            return "E:/Ruta/a/almacenamiento/de/user3"
         case _:
             raise HTTPException(status_code=404, detail="User path not found")
 
