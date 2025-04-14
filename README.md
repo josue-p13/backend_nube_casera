@@ -153,4 +153,4 @@ Una vez que el servidor esté en funcionamiento, puedes acceder a la documentaci
 
 ## Licencia
 
-Este proyecto está licenciado bajo [tu licencia elegida] - ver el archivo LICENSE para detalles.
+Este proyecto está licenciado bajo [josue-p13] - ver el archivo LICENSE para detalles.
